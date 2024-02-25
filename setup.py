@@ -93,3 +93,9 @@ setup(
     packages=find_packages(),
     entry_points={"console_scripts": ["shopcube=shopcube.__main__:main"]},
 )
+
+print("admin")
+print("admin")
+print("admin")
+print("admin")
+print("admin")
